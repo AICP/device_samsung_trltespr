@@ -4,35 +4,10 @@
     "target_path": "device/samsung/trlte-common",
     "branch": "aicp"
   },
-  {
-    "repository": "SlimRoms/device_qcom_common",
-    "target_path": "device/qcom/common",
-    "branch": "lp5.0"
-  },
-  {
-    "repository": "SlimRoms/device_samsung_qcom-common",
+   {
+    "repository": "CyanogenMod/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "branch": "lp5.0"
-  },
-  {
-    "repository": "SlimRoms/hardware_samsung",
-    "target_path": "hardware/samsung",
-    "branch": "lp5.0"
-  },
-  {
-    "repository": "SlimRoms/hardware_qcom_audio-caf",
-    "target_path": "hardware/qcom/audio-caf/apq8084",
-    "branch": "lp5.0-caf-8084"
-  },
-  {
-    "repository": "SlimRoms/hardware_qcom_display-caf",
-    "target_path": "hardware/qcom/display-caf/apq8084",
-    "branch": "lp5.0-caf-8084"
-  },
-  {
-    "repository": "SlimRoms/hardware_qcom_media-caf",
-    "target_path": "hardware/qcom/media-caf/apq8084",
-    "branch": "lp5.0-caf-8084"
+    "branch": "cm-12.0"
   },
   {
     "repository": "spleef/android_kernel_samsung_trlte",
@@ -40,14 +15,24 @@
     "branch": "cm-12.0"
   },
   {
-    "repository": "spleef/android_device_samsung_trltespr",
-    "target_path": "device/samsung/trltespr",
-    "branch": "aicp"
+    "repository": "CyanogenMod/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch": "cm-12.0"
+  },
+    {
+    "repository": "CyanogenMod/android_hardware_qcom_display",
+    "target_path": "hardware/qcom/display-caf/apq8084",
+    "branch": "cm-12.0-caf-8084"
   },
   {
-    "repository": "CyanogenMod/android_device_samsung_trlteusc",
-    "target_path": "device/samsung/trlteusc",
-    "branch": "cm-12.0"
+    "repository": "CyanogenMod/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio-caf/apq8084",
+    "branch": "cm-12.0-caf-8974"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_media",
+    "target_path": "hardware/qcom/media-caf/apq8084",
+    "branch": "cm-12.0-caf-8084"
   },
   {
     "repository": "spleef/proprietary_vendor_samsung",
