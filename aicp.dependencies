@@ -45,7 +45,7 @@
     "branch": "aicp"
   },
   {
-    "repository": "WoundTight/android_device_samsung_trlteusc",
+    "repository": "CyanogenMod/android_device_samsung_trlteusc",
     "target_path": "device/samsung/trlteusc",
     "branch": "cm-12.0"
   },
