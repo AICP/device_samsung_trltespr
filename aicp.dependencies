@@ -1,8 +1,8 @@
 [
   {
-    "repository": "spleef/android_device_samsung_trlte-common",
+    "repository": "AICP/device_samsung_trlte-common",
     "target_path": "device/samsung/trlte-common",
-    "branch": "aicp"
+    "branch": "lp5.0"
   },
   {
     "repository": "spleef/android_kernel_samsung_trlte",
