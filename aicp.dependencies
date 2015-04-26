@@ -7,7 +7,7 @@
   {
     "repository": "CyanogenMod/android_kernel_samsung_trlte",
     "target_path": "kernel/samsung/trlte",
-    "branch": "cm-12.0"
+    "branch": "cm-12.1"
   },
   {
     "repository": "AICP/device_samsung_qcom-common",
@@ -17,12 +17,7 @@
   {
     "repository": "CyanogenMod/android_hardware_samsung",
     "target_path": "hardware/samsung",
-    "branch": "cm-12.0"
-  },
-  {
-    "repository": "CyanogenMod/android_hardware_qcom_audio",
-    "target_path": "hardware/qcom/audio-caf/apq8084",
-    "branch": "cm-12.0-caf-8974"
+    "branch": "cm-12.1"
   },
   {
     "repository": "AICP/proprietary_vendor_samsung",
